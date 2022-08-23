@@ -8,7 +8,7 @@ body{
 .banner{
    width: 100%;
    height: 700px;
-   background-image: url('/Images/donation5.jpg');
+   background-image: url('/images/donation5.jpg');
    background-position: center;
    background-size: cover;
    background-attachment: fixed;
